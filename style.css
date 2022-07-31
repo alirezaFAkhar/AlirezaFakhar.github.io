@@ -1,6 +1,6 @@
 @font-face {
   font-family: IRANsans;
-  src: url("./fonts/IRAnSans/IRANSansWeb_Light.woff") format("woff");
+  src: url("./IRANSansWeb_Light.woff") format("woff");
 }
 * {
   font-family: IRANsans;
